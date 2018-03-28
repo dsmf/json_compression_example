@@ -1,0 +1,19 @@
+Generated using https://next.json-generator.com/E1CVyK45E
+
+{
+	"data": 
+      [
+        {
+          'repeat(100)': [
+              '{{floating(-90.000001, 90)}}',
+              '{{floating(-180.000001, 180)}}'
+            ]
+        }
+      ],
+	"page": {
+		"size": 100,
+		"totalElements": 100,
+		"totalPages": 1,
+		"number": 100
+	}      
+}
