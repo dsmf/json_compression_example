@@ -30,7 +30,7 @@ BSON        	5968
 BSON + GZIP 	3274
 ```
 
-````
+```
 exampleLatLongAsArray.json: 
 
 {
